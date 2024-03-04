@@ -1,2 +1,2 @@
 # expense-shell
-Repo for Expense
+Expense app
